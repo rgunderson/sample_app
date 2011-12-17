@@ -11,4 +11,5 @@ end
 
 group :test do
   gem 'rspec'
+  gem 'spork', '> 0.9.0.rc'
 end
